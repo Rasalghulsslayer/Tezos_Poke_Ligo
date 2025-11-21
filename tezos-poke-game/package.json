@@ -1,5 +1,5 @@
 {
-  "name": "tezos-poke-game",
+  "name": "training",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@taqueria/plugin-contract-types": "^0.78.0",
+    "@taqueria/plugin-ligo": "^0.78.0",
+    "@taqueria/plugin-octez-client": "^0.78.0",
+    "@taqueria/plugin-taquito": "^0.78.0"
+  }
 }
